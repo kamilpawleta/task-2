@@ -1,0 +1,36 @@
+h1{
+    font-size: 4vw;
+}
+
+/*
+ Możliwość nr 2 media queries 
+ Duże urządzenia 
+@media only screen and (max-width : 1200px) {
+    h1{
+        font-size: 1.4em;
+    }
+}
+ Średnie urządzenia 
+@media only screen and (max-width : 992px) {
+    h1{
+        font-size: 1.2em;
+    }
+}
+ Tablety
+@media only screen and (max-width : 768px) {
+    h1{
+        font-size: 1em;
+    }
+}
+ Telefony  
+@media only screen and (max-width : 480px) {
+    h1{
+        font-size: 0.8em;
+    }
+}
+ Małe telefony  
+@media only screen and (max-width : 320px) {
+    h1{
+        font-size: 0.6em;
+    }
+}*/
